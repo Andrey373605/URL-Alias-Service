@@ -27,3 +27,7 @@ local_settings.py
 # Visual Studio Code
 .vscode/
 .vscode/*
+.idea/
+idea
+.idea
+
